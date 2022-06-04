@@ -1,5 +1,3 @@
-# GITHUB INDICATORS
-
   # Football-Game-ScoreBoard-System
 
 
