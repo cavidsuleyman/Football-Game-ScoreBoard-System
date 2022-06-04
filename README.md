@@ -1,4 +1,8 @@
-  # Football-Game-ScoreBoard-System
+![GitHub Repo stars](https://img.shields.io/github/stars/cavidsuleyman/Football-Game-ScoreBoard-System?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/Football-Game-ScoreBoard-System?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/Football-Game-ScoreBoard-Systemstyle=for-the-badge)
+
+# Football-Game-ScoreBoard-System
 
 >I have developed a program that automatically shows the statistics of the countries participating in the World Cup. Here, the participating countries can play with each other, score goals, give teams 3, 1 and 0 points in the "Points Table".
 >I use here HTML, CSS, Javascript parameters and React parameters( useState, useRef, useEffect, useReducer, Context)
