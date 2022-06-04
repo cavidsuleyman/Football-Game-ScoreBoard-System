@@ -9,7 +9,7 @@
 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/RESUME.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Football-Game-ScoreBoard-System.git` <br/>
 > **STEP-2:**  enter the `Football-Game-ScoreBoard-System` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  open the folder with `cmd` or `Git Bash` and write `npm start` <br/>
@@ -28,7 +28,7 @@ This project was developed using the following technologies
 
 ## SAMPLE SCREEN APPEARANCE
 
-![There was a screenshot here](./screen-1.PNG)
+![There was a screenshot here](./.PNG)
 
 
  
