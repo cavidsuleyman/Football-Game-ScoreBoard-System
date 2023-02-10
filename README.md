@@ -1,6 +1,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/cavidsuleyman/Football-Game-ScoreBoard-System?style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/Football-Game-ScoreBoard-System?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/Football-Game-ScoreBoard-Systemstyle=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/Football-Game-ScoreBoard-System?style=for-the-badge)
 
 # Football-Game-ScoreBoard-System
 
